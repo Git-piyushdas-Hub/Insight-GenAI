@@ -1,0 +1,28 @@
+# credentials
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.venv/
+pyenv.cfg
+pyvenv.cfg
+
+# Pytest cache
+.pytest_cache/
+
+# Other cache files
+.cache/
+.DS_Store
+
+# libraries
+lib
+etc
+
+# other
+bin
+share

@@ -1,4 +1,4 @@
 # Install requirements
-python -m virtualenv <name>
-source env/bin/activate
-pip install -r requirements.txt
+1. python -m virtualenv <name>
+2. source env/bin/activate
+3. pip install -r requirements.txt
